@@ -12,7 +12,7 @@
 :small_orange_diamond: React (Gatsby, Next) <br>
 :small_orange_diamond: Electron <br>
 :small_orange_diamond: SASS <br>
-:small_orange_diamond: React <br>
+:small_orange_diamond: Unity 
 
 # :file_folder: Projects
 
