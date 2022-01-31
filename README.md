@@ -27,6 +27,7 @@ Car Rental Project | https://github.com/Xxsource98/CarRentalReact
 Project | Repository
 ------------ | -------------
 Todooo Mobile App | https://github.com/Xxsource98/Todooo
+Discord Bot Base | https://github.com/Xxsource98/PizzaCord
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18"/> C++ Projects
 Project | Repository
