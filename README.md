@@ -28,6 +28,7 @@ Project | Repository
 ------------ | -------------
 Todooo Mobile App | https://github.com/Xxsource98/Todooo
 Discord Bot Base | https://github.com/Xxsource98/PizzaCord
+Rainbow Six Siege User Data | https://github.com/Xxsource98/rainbow-six-user-data
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18"/> C++ Projects
 Project | Repository
