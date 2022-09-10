@@ -19,12 +19,12 @@
 ### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Javascript / Typescript Projects
 Project | Repository
 ------- | ----------
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> :star: SocialBook | https://github.com/Xxsource98/SocialBook
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> :star: Todooo Mobile App | https://github.com/Xxsource98/Todooo
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> SocialBook :star: | https://github.com/Xxsource98/SocialBook
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Todooo Mobile App :star: | https://github.com/Xxsource98/Todooo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> "PizzaCord" Discord Bot Base | https://github.com/Xxsource98/PizzaCord
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Rainbow Six Siege User | https://github.com/Xxsource98/Rainbow6-Stats
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Rainbow Six Siege API | https://github.com/Xxsource98/rainbow-six-user-dataData 
-<img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> :star: V-Librus | https://github.com/Xxsource98/V-Librus
+<img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> V-Librus :star: | https://github.com/Xxsource98/V-Librus
 <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Covid-19 Track | https://github.com/Xxsource98/COVID19-Track
 <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Car Rental Project | https://github.com/Xxsource98/CarRentalReact
 
