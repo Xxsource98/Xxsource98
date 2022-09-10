@@ -4,34 +4,35 @@
 :small_blue_diamond: C++ <br>
 :small_blue_diamond: Javascript <br>
 :small_blue_diamond: Typescript <br>
-:small_blue_diamond: Python
 
 ### **:wrench: Technologies:**<br>
 :small_orange_diamond: Node <br>
 :small_orange_diamond: Express <br>
-:small_orange_diamond: React (Gatsby, Next) <br>
-:small_orange_diamond: Electron <br>
-:small_orange_diamond: SASS <br>
-:small_orange_diamond: Unity 
+:small_orange_diamond: React / Next <br>
+
+### **:crystal_ball: Other:**<br>
+:small_orange_diamond: Unity <br>
+:small_orange_diamond: Blender <br>
 
 # :file_folder: Projects
 
-### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Javascript Projects
+### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Javascript / Typescript Projects
 Project | Repository
 ------- | ----------
-V-Librus | https://github.com/Xxsource98/V-Librus
-Covid-19 Track | https://github.com/Xxsource98/COVID19-Track
-Car Rental Project | https://github.com/Xxsource98/CarRentalReact
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Typescript Projects
-Project | Repository
------------- | -------------
-Todooo Mobile App | https://github.com/Xxsource98/Todooo
-Discord Bot Base | https://github.com/Xxsource98/PizzaCord
-Rainbow Six Siege User Data | https://github.com/Xxsource98/rainbow-six-user-data
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> :star: SocialBook | https://github.com/Xxsource98/SocialBook
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> :star: Todooo Mobile App | https://github.com/Xxsource98/Todooo
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> "PizzaCord" Discord Bot Base | https://github.com/Xxsource98/PizzaCord
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Rainbow Six Siege User | https://github.com/Xxsource98/Rainbow6-Stats
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Rainbow Six Siege API | https://github.com/Xxsource98/rainbow-six-user-dataData 
+<img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> :star: V-Librus | https://github.com/Xxsource98/V-Librus
+<img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Covid-19 Track | https://github.com/Xxsource98/COVID19-Track
+<img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Car Rental Project | https://github.com/Xxsource98/CarRentalReact
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18"/> C++ Projects
 Project | Repository
 ------------ | -------------
-SourceBase Trainer | https://github.com/Xxsource98/SourceBase
-Path Finder | https://github.com/Xxsource98/PathFinder
+SourceBase Trainer :star: | https://github.com/Xxsource98/SourceBase
+Path Finder :star: | https://github.com/Xxsource98/PathFinder
+
+<br>
+:star: - Projects that I like the most :)
