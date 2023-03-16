@@ -4,15 +4,18 @@
 :small_blue_diamond: C++ <br>
 :small_blue_diamond: Javascript <br>
 :small_blue_diamond: Typescript <br>
+:small_blue_diamond: Dart <br>
 
 ### **:wrench: Technologies:**<br>
 :small_orange_diamond: Node <br>
 :small_orange_diamond: Express <br>
 :small_orange_diamond: React / Next <br>
+:small_orange_diamond: Tailwind CSS <br>
 
 ### **:crystal_ball: Other:**<br>
-:small_orange_diamond: Unity <br>
 :small_orange_diamond: Blender <br>
+:small_orange_diamond: Unity <br>
+:small_orange_diamond: Docker <br>
 
 # :file_folder: Projects
 
@@ -31,7 +34,7 @@ Project | Repository
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18"/> C++ Projects
 Project | Repository
 ------------ | -------------
-SourceBase Trainer :star: | https://github.com/Xxsource98/SourceBase
+GTA 5 Trainer Base :star: | https://github.com/Xxsource98/SourceBase
 Path Finder :star: | https://github.com/Xxsource98/PathFinder
 
 <br>
