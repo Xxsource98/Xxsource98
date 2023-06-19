@@ -22,6 +22,7 @@
 ### <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Javascript / Typescript Projects
 Project | Repository
 ------- | ----------
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="18"/> FUsage :star: | https://github.com/Xxsource98/FUsage
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> SocialBook :star: | https://github.com/Xxsource98/SocialBook
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Todooo Mobile App :star: | https://github.com/Xxsource98/Todooo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> "PizzaCord" Discord Bot Base | https://github.com/Xxsource98/PizzaCord
